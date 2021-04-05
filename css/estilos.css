@@ -35,11 +35,27 @@ header{
     
     background:url(/img/encabezado_2.jpg);
     background-size: cover;
-        
 }
-
-.titular{
+h1{
+    font-size: 65px;
+}
+.titular {
     color: cornflowerblue;
     font-size: 30px;
-    line-height: 55px;
+    line-height: 70px;
+    margin-left: 100px;
+    margin-top: 120px;
+
+}
+
+.titular p{
+    font-style: italic;
+    margin-bottom: 40px;
+}
+.titular a:hover{
+    
+    font-size: 35px;
+    animation-delay: 55ms;
+    padding: 20px 40px;
+    
 }
