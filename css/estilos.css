@@ -32,8 +32,10 @@ nav ul li a{
 }
 
 header{
-    background: url(/img/encabezado_2.jpg)
+    
+    background:url(/img/encabezado_2.jpg);
     background-size: cover;
+        
 }
 
 .titular{
