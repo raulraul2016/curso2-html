@@ -64,6 +64,11 @@ h2{
     text-align: center;
  }
 
+.atuendos-tejidos img{
+    display: flex;
+    max-width: 200px;
+    height: auto;
+}
  .contenedor-atuendos-artesanales{
      display: flex;
     
